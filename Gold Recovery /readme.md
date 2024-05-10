@@ -1,6 +1,6 @@
-# Улучшение процесса обогащения золота
+# Восстановление золота из руды
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[HTML](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
 
 ## Описание проекта
 
@@ -12,16 +12,15 @@
 
 - **python**
 - **pandas**
-- **numpy**
-- **scipy**
-- sklearn.model_selection.**cross_val_score**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**mean_absolute_error**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
+- **seaborn**
 - **matplotlib**
+- sklearn.model_selection **cross_val_score**
+- sklearn.metrics **make_scorer**
+- sklearn.metrics **mean_absolute_error**
+- sklearn.tree **DecisionTreeRegressor**
+- sklearn.ensemble **RandomForestRegressor**
+- sklearn.linear_model **LinearRegression**
+- sklearn.dummy **DummyRegressor**
 
 ## 
 
