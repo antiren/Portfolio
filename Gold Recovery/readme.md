@@ -1,6 +1,6 @@
 # Восстановление золота из руды
 
-[HTML](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
+[HTML](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.ipynb)
 
 ## Описание проекта
 
