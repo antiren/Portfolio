@@ -1,6 +1,6 @@
 # Анализ текста
 
-[HTML](https://github.com/antiren/Portfolio/blob/main/Toxic%20Comments/14-Toxic%20Comments%20-%20clean.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Toxic%20Comments/14-Toxic%20Comments%20-%20clean.ipynb)
+[HTML](https://github.com/antiren/Portfolio/blob/main/Toxic%20Comments/14-ToxicComments%20-%20clean.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Toxic%20Comments/14-ToxicComments%20-%20clean.ipynb)
 
 ## Описание проекта
 
