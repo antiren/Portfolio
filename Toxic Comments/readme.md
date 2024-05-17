@@ -14,7 +14,6 @@
 - **pandas**
 - **spacy**
 - **nltk**
-- nltk.stem **WordNetLemmatizer**
 - nltk.corpus **stopwords as nltk_stopwords**
 - sklearn.model_selection **train_test_split**
 - sklearn.metrics **f1_score**
