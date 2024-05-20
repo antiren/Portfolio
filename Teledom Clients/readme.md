@@ -1,6 +1,7 @@
 # Прогноз оттока клиентов
 
-[HTML](https://github.com/antiren/Portfolio/blob/main/Teledom%20Clents/16-Teledom%20Clients%20-%20clean.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Teledom%20Clents/16-Teledom%20Clients%20-%20clean.ipynb)
+[HTML](https://github.com/antiren/Portfolio/blob/main/Teledom%20Clents/16-Teledom%20Clients%20-%20clean.html)     
+[ipynb](https://github.com/antiren/Portfolio/blob/main/Teledom%20Clents/16-Teledom%20Clients%20-%20clean.ipynb)
 
 ## Описание проекта
 
@@ -28,4 +29,4 @@
 
 ## Общий вывод
 
-Было проведено обучение выбранных моделей с подбором гиперпараметров, кодированием и масшибированием в зависимости от обучаемой модели. Для лучшей модели проведена проверка на тестовом наборе и исследованы показатели лучшей модели.
+Провела обучение выбранных моделей с подбором гиперпараметров, кодированием и масшибированием в зависимости от обучаемой модели. Лучшую модель проверила на тестовом наборе и исследовала её важность показателей и матрицу ошибок.
