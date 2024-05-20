@@ -1,6 +1,7 @@
 # Восстановление золота из руды
 
-[HTML](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.html)     [ipynb](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.ipynb)
+[HTML](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.html)     
+[ipynb](https://github.com/antiren/Portfolio/blob/main/Gold%20Recovery/9-Zoloto_SbornyProject%20-%20clean.ipynb)
 
 ## Описание проекта
 
@@ -26,4 +27,4 @@
 
 ## Общий вывод
 
-Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
+Провела обучение выбранных моделей для стадий грубой и тонкой очистки, проверила обученные моделеи на тестовом наборе и рекомендовала выбрать одну для запуска в производство.
